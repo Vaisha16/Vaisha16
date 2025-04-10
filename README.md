@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java and database
 - 💞️ I’m looking to collaborate ...
-- 📫 How to reach me @vaishnavi_saravana@outlook.com
+- 📫 How to reach me @vaishnavi.saravana01@gmail.com
 
 <!---
 Vaisha16/Vaisha16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
